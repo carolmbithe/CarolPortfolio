@@ -6,10 +6,22 @@ h3{
   text-align: center;
 }
 
+h2{
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
 .intro {
-     height: 40vh;
+     height: 70vh;
      /* background-color: #BFC0C7; */
-     background-image: url(../images/about.jpg);
+     background-image: url(../images/photo.jpeg);
+     /* background-repeat: no-repeat; */
+     /* background-repeat: repeat-y; */
+
      text-align: center;
      top: 100%;
      left: 0;
@@ -24,7 +36,7 @@ h3{
   .about{
     height: 40vh;
 
-    background-color: #000000;
+    background-color: #1A1919;
   }
   .centered {
     position: absolute;
@@ -104,4 +116,6 @@ h3{
   height: 40vh;
 
   background-color: #000000;
+  /* background-color: soli; */
+
 }
