@@ -18,7 +18,7 @@ h2{
 .intro {
      height: 70vh;
      /* background-color: #BFC0C7; */
-     background-image: url(../images/photo.jpeg);
+     background-image: url(../images/photo.jpeg) no-repeat f ixed;
      /* background-repeat: no-repeat; */
      /* background-repeat: repeat-y; */
 
